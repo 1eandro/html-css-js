@@ -1,4 +1,4 @@
-###  Expanding Cards
+###  50 Projects with HTML + CSS + JS
 
 Hello, open any of the links below in a new tab to see it
 
