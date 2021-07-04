@@ -8,6 +8,8 @@ Hello, open any of the links below in a new tab to see it
 
 [Day 03 - Rotating Navigation](https://1eandro.github.io/html-css-js/day03-rotating-navigation/)
 
+[Day 04 - Hidden Search Widget](https://1eandro.github.io/html-css-js/day04-hidden-search-widget/)
+
 ---
 
 Check on the full repository in my [Github](https://github.com/1eandro/html-css-js)
