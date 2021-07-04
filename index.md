@@ -10,6 +10,8 @@ Hello, open any of the links below in a new tab to see it
 
 [Day 04 - Hidden Search Widget](https://1eandro.github.io/html-css-js/day04-hidden-search-widget/)
 
+[Day 05 - Blurry Loading](https://1eandro.github.io/html-css-js/day05-blurry-loading/)
+
 ---
 
 Check on the full repository in my [Github](https://github.com/1eandro/html-css-js)
