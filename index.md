@@ -14,6 +14,8 @@ Hello, open any of the links below in a new tab to see it
 
 [Day 06 - Scroll Animation](https://1eandro.github.io/html-css-js/day06-scrolling-animation/)
 
+[Day 07 - Split Landing Page](https://1eandro.github.io/html-css-js/day07-split-landing-page/)
+
 ---
 
 Check on the full repository in my [Github](https://github.com/1eandro/html-css-js)
