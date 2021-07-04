@@ -16,6 +16,8 @@ Hello, open any of the links below in a new tab to see it
 
 [Day 07 - Split Landing Page](https://1eandro.github.io/html-css-js/day07-split-landing-page/)
 
+[Day 08 - Form Wave Animation](https://1eandro.github.io/html-css-js/day08-form-wave-animation/)
+
 ---
 
 Check on the full repository in my [Github](https://github.com/1eandro/html-css-js)
