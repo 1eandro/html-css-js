@@ -1,4 +1,4 @@
-###  50 Projects with HTML + CSS + JS
+### 50 Projects with HTML + CSS + JS
 
 Hello, open any of the links below in a new tab to see it
 
@@ -19,6 +19,8 @@ Hello, open any of the links below in a new tab to see it
 [Day 08 - Form Wave Animation](https://1eandro.github.io/html-css-js/day08-form-wave-animation/)
 
 [Day 10 - Dad Jokes](https://1eandro.github.io/html-css-js/day10-dad-jokes/)
+
+[Ania 01 - Rotating Flight Widget](https://1eandro.github.io/html-css-js/ania01-rotating-flight-widget/)
 
 ---
 
